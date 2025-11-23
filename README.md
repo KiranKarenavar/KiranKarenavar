@@ -14,7 +14,7 @@ Performed (Man In The Middle Attack) safely inside isolated VMware network using
 
 ### 🛠️ Skills & Tools
 
-Nmap Wireshark | Kali Linux | Linux |
+Nmap | Wireshark | Kali Linux | Linux |
 Ettercap | Bettercap | arpspoof |
 VMware | VirtualBox
 
