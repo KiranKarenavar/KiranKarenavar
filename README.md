@@ -3,7 +3,7 @@
 #### I am a cybersecurity learner building strong, practical skills through hands-on labs, packet analysis, and defensive techniques inside my own virtual home lab (VMware + Kali).
 ### 📂 Featured Cybersecurity Projects
 
-####🔐 Nmap Port Scanning Techniques :
+##### 🔐 Nmap Port Scanning Techniques :
 - Performed port scans, analyzed results & Wireshark packets, documented everything in PDF.
 
 - 📡 Wireshark Traffic Analysis
