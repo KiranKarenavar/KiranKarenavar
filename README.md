@@ -14,14 +14,13 @@ Performed (Man In The Middle Attack) safely inside isolated VMware network using
 
 ### 🛠️ Skills & Tools
 
-Nmap Wireshark Kali Linux Linux
-Ettercap Bettercap arpspoof
-VMware VirtualBox
+Nmap Wireshark | Kali Linux | Linux |
+Ettercap | Bettercap | arpspoof |
+VMware | VirtualBox
 
 ### 📫 Connect With Me
 
 #### LinkedIn: https://www.linkedin.com/in/kiran-karenavar
-#### GitHub: 
 
 
 
