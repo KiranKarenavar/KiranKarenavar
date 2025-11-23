@@ -20,7 +20,7 @@ VMware VirtualBox
 
 ### 📫 Connect With Me
 
-#### LinkedIn: https://in/kiran-karenavar
+#### LinkedIn: https://www.linkedin.com/in/kiran-karenavar
 #### GitHub: 
 
 
