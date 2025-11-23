@@ -12,4 +12,12 @@ Studying TCP/UDP/ICMP packets, filtering, and understanding network behavior.
 🕵️ MITM Attack Home Lab (ARP Spoofing, Ettercap, Bettercap)
 Performed (Man In The Middle Attack) safely inside isolated VMware network using my own devices only.
 
+### 🛠️ Skills & Tools
+
+Nmap Wireshark Kali Linux Linux
+Ettercap Bettercap arpspoof
+VMware VirtualBox
+
+
+
 
