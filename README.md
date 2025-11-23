@@ -20,8 +20,8 @@ VMware VirtualBox
 
 ### 📫 Connect With Me
 
-LinkedIn: 
-GitHub: 
+## LinkedIn: 
+## GitHub: 
 
 
 
