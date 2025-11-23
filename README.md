@@ -3,13 +3,13 @@
 #### I am a cybersecurity learner building strong, practical skills through hands-on labs, packet analysis, and defensive techniques inside my own virtual home lab (VMware + Kali).
 ### 📂 Featured Cybersecurity Projects
 
-🔐 Nmap Port Scanning Techniques
+- 🔐 Nmap Port Scanning Techniques
 Performed port scans, analyzed results & Wireshark packets, documented everything in PDF.
 
-📡 Wireshark Traffic Analysis
+- 📡 Wireshark Traffic Analysis
 Studying TCP/UDP/ICMP packets, filtering, and understanding network behavior.
 
-🕵️ MITM Attack Home Lab (ARP Spoofing, Ettercap, Bettercap)
+- 🕵️ MITM Attack Home Lab (ARP Spoofing, Ettercap, Bettercap)
 Performed (Man In The Middle Attack) safely inside isolated VMware network using my own devices only.
 
 ### 🛠️ Skills & Tools
