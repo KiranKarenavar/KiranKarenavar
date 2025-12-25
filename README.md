@@ -64,16 +64,7 @@ Each repository documents **what I learned**, **how I tested it**, and **key tak
 - Log analysis & incident detection  
 - Network attack detection techniques  
 - Security best practices & fundamentals  
-
----
-
-## 🤝 Open to Collaboration
-
-I’m open to:
-- Cybersecurity learning projects  
-- Blue-Team / SOC practice labs  
-- Beginner-friendly open-source security tools  
-- Knowledge sharing & collaboration  
+ 
 
 ---
 
