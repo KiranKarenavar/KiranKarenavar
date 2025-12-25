@@ -74,7 +74,7 @@ I’m open to:
 
 ## 📫 Connect With Me
 
-- GitHub: [https://github.com/KiranKarenavar](https://github.com/KiranKarenavar)  
+- GitHub: *([https://github.com/KiranKarenavar](https://github.com/KiranKarenavar))*
 - LinkedIn: *([https://www.linkedin.com/in/kiran-karenavar](https://www.linkedin.com/in/kiran-karenavar))*  
 
 ---
