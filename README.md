@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Kiran Karenavar
 
 🔐 **Aspiring Cybersecurity Analyst | Blue Team & Ethical Hacking Enthusiast**  
-📍 Pune, Maharashtra, India 🇮🇳  
+📍 Pune, Maharashtra
 
-I’m passionate about cybersecurity and building **real-world, hands-on skills** through labs and practical projects.  
-My focus is on **network security, traffic analysis, reconnaissance, and defensive techniques**.
+I’m passionate about cybersecurity and building **real-world, hands-on skills** through labs and practical projects.
 
 ---
 
@@ -14,23 +13,29 @@ My focus is on **network security, traffic analysis, reconnaissance, and defensi
 - Packet Capture & Traffic Analysis  
 - Man-in-the-Middle (MITM) Attacks & Defense  
 - Blue-Team fundamentals & SOC concepts  
-- Linux system and network security  
+- Linux system and network security
+- Social Engineering
+- LAMP Server
+- Vulnerability Scanning  
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- **Operating Systems:** Linux, Kali Linux  
+- **Operating Systems:** Windows, Linux, Kali Linux, Ubuntu
 - **Networking & Security Tools:**  
   - Nmap  
   - Wireshark  
-  - Ettercap  
-  - Bettercap  
+  - Burp Suite Professional
+  - Acunetix
+  - Nessus
 - **Virtualization:** VMware, VirtualBox  
 - **Concepts:**  
   - ARP Spoofing  
-  - MITM Analysis  
-  - Network Monitoring  
+  - MITM Analysis
+  - Footprinting & Reconnaissance
+  - Dos & DDos
+  - Network Monitoring
   - Ethical Hacking Fundamentals  
 
 ---
