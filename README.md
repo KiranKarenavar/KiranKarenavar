@@ -1,78 +1,89 @@
-# 👋 Hi, I'm Kiran Karenavar
+# 👋 Hi, I’m Kiran Karenavar
 
-🔐 **Aspiring Cybersecurity Analyst | Blue Team & Ethical Hacking Enthusiast**  
-📍 Pune, Maharashtra
+🛡️ **Cybersecurity Enthusiast | Ethical Hacking | Network & Web Security**
 
-I’m passionate about cybersecurity and building **real-world, hands-on skills** through labs and practical projects.
-
----
-
-## 🛡️ What I’m Learning & Practicing
-
-- Network Scanning & Reconnaissance  
-- Packet Capture & Traffic Analysis  
-- Man-in-the-Middle (MITM) Attacks & Defense  
-- Blue-Team fundamentals & SOC concepts  
-- Linux system and network security
-- Social Engineering
-- LAMP Server
-- Vulnerability Scanning  
+I am a passionate cybersecurity learner with hands-on experience in network security, ethical hacking tools, web application testing, and attack simulations. I focus on understanding how attacks work so systems can be better protected.
 
 ---
 
-## 🧰 Tools & Technologies
+## 🔍 Areas of Expertise
 
-- **Operating Systems:** Windows, Linux, Kali Linux, Ubuntu
-- **Networking & Security Tools:**  
-  - Nmap  
-  - Wireshark  
-  - Burp Suite Professional
-  - Acunetix
-  - Nessus
-- **Virtualization:** VMware, VirtualBox  
-- **Concepts:**  
-  - ARP Spoofing  
-  - MITM Analysis
-  - Footprinting & Reconnaissance
-  - Dos & DDos
-  - Network Monitoring
-  - Ethical Hacking Fundamentals  
+### 🌐 Networking & Protocols
+- IP Addressing & MAC Addressing  
+- TCP, UDP, ICMP Protocols  
+- Information Gathering & Reconnaissance  
 
 ---
 
-## 📁 My GitHub Repositories Focus On
+### 🛠️ Network & Attack Simulation
+- ARP Spoofing, MITM Attacks  
+- DNS Spoofing  
+- DHCP Starvation Attack  
+- Session Hijacking  
+- DoS / DDoS Attacks  
 
-- 🔍 **Nmap Labs & Port Scanning**  
-  Practical reconnaissance and service enumeration exercises  
-
-- 📡 **Wireshark Packet Analysis**  
-  Capturing, filtering, and analyzing network traffic  
-
-- 🧪 **MITM Attack Simulations**  
-  Controlled lab-based experiments using Ettercap & Bettercap  
-
-- 🖥️ **Home Lab Setup**  
-  Virtual machines for practicing cybersecurity scenarios safely  
-
-Each repository documents **what I learned**, **how I tested it**, and **key takeaways**.
+**Tools:** Ettercap, Bettercap, Hping3
 
 ---
 
-## 🌱 Currently Improving
+### 🔐 Ethical Hacking & Pentesting Tools
+- Metasploit Framework (msfconsole)  
+- SEToolkit  
+- Koadic  
+- Hashcat  
+- Hydra  
+- SSH Pentesting  
 
-- Blue-Team defensive skills  
-- Log analysis & incident detection  
-- Network attack detection techniques  
-- Security best practices & fundamentals  
- 
+---
+
+### 🌍 Web Application Security
+- OWASP ZAP (Website Scanning)  
+- Burp Suite  
+- Acunetix  
+- Nessus Vulnerability Scanner  
+
+---
+
+### 📡 Wireless & System Security
+- Wireless Hacking Basics  
+- XAMPP / Xmap Server  
+- LAMP Server Setup (Linux, Apache2, MySQL, PHP)  
+
+---
+
+### 📱 Mobile & Social Engineering
+- Android Hacking: AndroRAT, Airavat  
+- Social Media Phishing: Zphisher, PyPhisher  
+
+---
+
+### 🕶️ Other Knowledge Areas
+- Dark Web (Basics & Awareness)  
+- Social Engineering Attacks  
+- Identity Theft Concepts  
+
+---
+
+## 💻 Operating Systems
+- Kali Linux  
+- Ubuntu  
+- Windows (PowerShell)
+
+---
+
+## 🚀 What I’m Working On
+- Hands-on cybersecurity labs  
+- Network traffic analysis  
+- Web application vulnerability testing  
+- Improving blue-team defensive understanding  
 
 ---
 
 ## 📫 Connect With Me
-
-- GitHub: *([https://github.com/KiranKarenavar](https://github.com/KiranKarenavar))*
-- LinkedIn: *([https://www.linkedin.com/in/kiran-karenavar](https://www.linkedin.com/in/kiran-karenavar))*  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/kiran-karenavar  
+- 🤝 Open to collaboration, learning, and cybersecurity discussions
 
 ---
 
-⭐ *Always learning, always improving — one lab at a time.*
+## 📊 GitHub Stats
+![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranKarenavar&show_icons=true&theme=blueberry)
