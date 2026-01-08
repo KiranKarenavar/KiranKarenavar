@@ -81,7 +81,6 @@ I am a passionate cybersecurity learner with hands-on experience in network secu
 
 ## 📫 Connect With Me
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/kiran-karenavar  
-- 🤝 Open to collaboration, learning, and cybersecurity discussions
 
 ---
 
