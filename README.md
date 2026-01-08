@@ -72,7 +72,8 @@ I am a passionate cybersecurity learner with hands-on experience in network secu
 ---
 
 ## 🚀 What I’m Working On
-- Hands-on cybersecurity labs  
+- Hands-on cybersecurity labs
+- SSH Penetration Testing
 - Network traffic analysis  
 - Web application vulnerability testing  
 - Improving blue-team defensive understanding  
@@ -82,7 +83,3 @@ I am a passionate cybersecurity learner with hands-on experience in network secu
 ## 📫 Connect With Me
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/kiran-karenavar  
 
----
-
-## 📊 GitHub Stats
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranKarenavar&show_icons=true&theme=blueberry)
