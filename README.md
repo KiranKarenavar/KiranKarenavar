@@ -62,7 +62,7 @@ I am a cybersecurity enthusiast with hands-on experience in **security monitorin
 * SIEM-style log review (Linux authentication & service logs)
 * Snort (IDS/IPS), Wireshark, Nmap
 * Metasploit (lab use), OWASP ZAP, Burp Suite
-* Nessus, Acunetix
+* Nessus, Acunetix (Basics)
 
 ---
 
