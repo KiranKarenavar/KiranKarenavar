@@ -171,5 +171,5 @@ Aspiring to build a career in **Cybersecurity** by contributing to **SOC**, **Bl
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:001a00,50:003300,100:00ff00&section=footer&text=SYSTEM%20SHUTDOWN...&fontColor=00ff00&fontSize=30&fontAlignY=75&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:001a00,50:003300,100:00ff00&section=footer&text=SYSTEM%20SHUTDOWN...&fontColor=00ff00&fontSize=20&fontAlignY=75&animation=fadeIn" width="100%"/>
 </div>
