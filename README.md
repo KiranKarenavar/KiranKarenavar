@@ -303,9 +303,7 @@ kirankarenavar15@gmail.com
 ---
 
 ## 📊 Stats
-
 ![](https://nirzak-streak-stats.vercel.app/?user=KiranKarenavar&theme=dark&hide_border=false)
-
 ###
 
 <picture>
