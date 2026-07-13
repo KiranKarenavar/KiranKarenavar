@@ -1,12 +1,8 @@
 <div align="center">
 
-### Cybersecurity Enthusiast | SOC Analyst | Blue Team | Threat Detection | Active Directory | Malware Analysis
+### 🛡️ Cybersecurity Enthusiast | Aspiring SOC Analyst | Blue Team | Threat Detection | Windows Security | SIEM
 
-<p>
-I'm passionate about securing systems, detecting threats, analyzing malware, and building hands-on cybersecurity labs.
-Currently pursuing Computer Engineering while continuously developing practical skills in Blue Team operations, SIEM, Windows Infrastructure, and Incident Response.
-</p>
-
+<p> I'm a Computer Engineering student passionate about cybersecurity and dedicated to building practical skills through hands-on labs and real-world projects. My interests include security monitoring, vulnerability assessment, Windows Server, Active Directory, malware analysis, network security, and Blue Team operations. I enjoy continuously learning and applying defensive security techniques to strengthen and secure modern IT environments. </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Kiran+Karenavar+%F0%9F%91%8B;Aspiring+SOC+Analyst;Blue+Team+%7C+Cybersecurity+Enthusiast;Security+Analyst+in+the+Making;Learning+%7C+Defending+%7C+Growing" alt="Typing SVG" />
