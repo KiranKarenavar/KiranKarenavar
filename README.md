@@ -258,15 +258,7 @@ where I can apply practical security skills, contribute to defending enterprise 
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KiranKarenavar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKarenavar&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -325,6 +317,18 @@ kirankarenavar15@gmail.com
   <a href="https://tryhackme.com/p/KiranKarenavar"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
   <a href="https://app.hackthebox.com/users/2443085"><img src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
   <a href="https://hackerone.com/kirankarenavar"><img src="https://img.shields.io/badge/HackerOne-%23494649.svg?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KiranKarenavar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKarenavar&theme=tokyonight"/>
+
 </p>
 
 ---
