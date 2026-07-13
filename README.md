@@ -306,6 +306,9 @@ kirankarenavar15@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKarenavar&layout=compact&theme=tokyonight)
 
+## 📊 Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=KiranKarenavar&theme=dark&hide_border=false)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
