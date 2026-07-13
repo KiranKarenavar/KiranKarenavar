@@ -1,110 +1,299 @@
-# 👋 Hi, I’m Kiran Karenavar
+<div align="center">
 
-🛡️ Cybersecurity Analyst | SOC Analyst Aspirant | Blue Team Enthusiast
+# 👋 Hi, I'm Kiran Karenavar
 
-I am a cybersecurity enthusiast with hands-on experience in **security monitoring, log analysis, incident response, and attack detection** through controlled lab environments. I focus on understanding attacker behavior and translating offensive techniques into **SOC detections, Indicators of Compromise (IOCs), and incident response workflows**.
+### Cybersecurity Enthusiast | SOC Analyst | Blue Team | Threat Detection | Active Directory | Malware Analysis
 
----
+<p>
+I'm passionate about securing systems, detecting threats, analyzing malware, and building hands-on cybersecurity labs.
+Currently pursuing Computer Engineering while continuously developing practical skills in Blue Team operations, SIEM, Windows Infrastructure, and Incident Response.
+</p>
 
-## 🔍 Core Focus Areas
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Threat+Detection+Engineer;Blue+Team+Enthusiast;Active+Directory+Security;Malware+Analysis;Cybersecurity+Learner" />
 
-### 📊 Cybersecurity & SOC Analytics
-
-* Log analysis for authentication and service-level events
-* Detection of brute-force attacks and unauthorized access attempts
-* Identification and documentation of Indicators of Compromise (IOCs)
-* Incident severity assessment and attack timeline analysis
-* Mapping adversary behavior to the **MITRE ATT&CK framework**
+</div>
 
 ---
 
-### 🛡️ Intrusion Detection & Prevention (Snort IDS/IPS)
+# 👨‍💻 About Me
 
-* Implemented **Snort as an Intrusion Detection System (IDS)** for real-time traffic monitoring
-* Configured rule-based detection to identify suspicious and malicious network activity
-* Analyzed alerts and logs to simulate **SOC analyst workflows**
-* Studied Snort’s **Intrusion Prevention System (IPS)** capability using inline mode
-* Understood packet dropping, traffic filtering, and prevention techniques
+🎓 Computer Engineering Student
 
----
+🛡️ Passionate about Cybersecurity & Defensive Security
 
-### 🧪 Hands-On SOC Project
+🔍 Interested in
 
-**Web Server Security Assessment & SOC Analytics**
+- SOC Operations
+- Threat Hunting
+- Incident Response
+- Active Directory Security
+- Windows Server Administration
+- Malware Analysis
+- Digital Forensics
+- Detection Engineering
+- Network Security
+- Web Application Security
 
-* Built a controlled **LAMP-based web server lab**
-* Performed penetration testing on **SSH, FTP, MySQL, and SMTP services**
-* Analyzed Linux system and service logs from a SOC analyst perspective
-* Created **SOC-style Log Analysis and Incident Response reports**
-* Connected offensive testing results to real-world SOC detection use cases
-
----
-
-### 🌐 Networking & Traffic Analysis
-
-* TCP/IP, UDP, ICMP, DNS, HTTP/HTTPS
-* Network reconnaissance and service enumeration
-* Packet capture and traffic analysis using **Wireshark**
+💡 I enjoy building home labs, solving real-world security challenges, and continuously learning modern detection and defense techniques.
 
 ---
 
-### 🛡️ Threat Simulation & Detection Labs
+# 🛠️ Technical Skills
 
-* Network sniffing and **MITM attack analysis**
-* ARP spoofing, DNS spoofing, and session hijacking labs
-* **DoS / DDoS attack simulation** and detection concepts
-* Focus on defensive indicators and SOC monitoring relevance
+## Operating Systems
 
----
-
-### 🔐 Security Tools (Blue-Team Oriented)
-
-* SIEM-style log review (Linux authentication & service logs)
-* Snort (IDS/IPS), Wireshark, Nmap
-* Metasploit (lab use), OWASP ZAP, Burp Suite
-* Nessus, Acunetix (Basics)
+- Windows
+- Windows Server 2019/2022
+- Ubuntu
+- Kali Linux
 
 ---
 
-### 🖥️ Systems & Servers
+## Blue Team
 
-* Kali Linux, Ubuntu, Windows (PowerShell)
-* LAMP Stack deployment and hardening (Linux, Apache, MySQL, PHP)
-
----
-
-## 🚀 Currently Working On
-
-* Advanced log analysis and threat detection labs
-* Improving SOC alert triage and incident analysis skills
-* Mapping lab-based attacks to detection logic and MITRE ATT&CK
-
----
-
-## 📂 Featured Projects
-
-🔹 **Snort IDS/IPS Project**
-
-* Network traffic monitoring and alert generation using Snort
-* Rule-based detection for malicious activity
-* Analysis of alerts and packet behavior
-* Exploration of IPS inline mode for traffic prevention
+- SIEM Monitoring
+- Threat Detection
+- Incident Response
+- Security Monitoring
+- Log Analysis
+- IOC Investigation
+- Email Security
+- MFA
+- Firewall Configuration
+- Endpoint Security (EDR/XDR)
 
 ---
 
-🔹 **Network Services Security Testing (SSH, SMTP, FTP)**
+## Windows Infrastructure
 
-* Conducted penetration testing on SSH, SMTP, and FTP services to identify weak authentication mechanisms, open relay, spoofing vulnerabilities, and insecure FTP configurations
-* Utilized tools such as Metasploit, Hydra, Telnet, and Nmap to simulate attacks and assess risks
-* Implemented hardening measures including key-based authentication, disabling anonymous FTP access, and securing mail transfer protocols
-
----
-
-## 📫 Connect With Me
-
-* 🔗 LinkedIn: https://www.linkedin.com/in/kiran-karenavar
-* 💻 GitHub: https://github.com/KiranKarenavar
+- Active Directory
+- Group Policy
+- DNS
+- DHCP
+- WSUS
+- Office 365
+- User & Privilege Management
 
 ---
 
-⭐ *Focused on becoming a skilled SOC Analyst by combining offensive knowledge with strong defensive detection strategies.*
+## Networking
+
+- TCP/IP
+- OSI Model
+- DNS
+- DHCP
+- VPN
+- Routing
+- Switching
+
+---
+
+## Web Security
+
+- OWASP Top 10
+- Burp Suite
+- OWASP ZAP
+- Web Vulnerability Assessment
+
+---
+
+## Malware Analysis
+
+- Static Malware Analysis
+- PE Analysis
+- API Inspection
+- DLL Analysis
+- Entropy Analysis
+- Malware Persistence
+
+---
+
+## OSINT
+
+- Shodan
+- Maltego
+- Recon-ng
+- Sherlock
+- theHarvester
+- Google Dorking
+
+---
+
+## Security Tools
+
+- Splunk
+- Wazuh
+- Nmap
+- Nessus
+- Metasploit
+- Burp Suite
+- Wireshark
+- tcpdump
+- Snort
+- Acunetix
+- VirusTotal
+
+---
+
+# 💻 Programming & Scripting
+
+```text
+Python        █████████░░
+PowerShell    ████████░░░
+Bash          ███████░░░░
+SQL           ██████░░░░░
+KQL           █████░░░░░░
+SPL           █████░░░░░░
+YARA          ████░░░░░░░
+Regex         ██████░░░░░
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 Active Directory Home Lab
+
+- Windows Server 2022
+- Domain Controller
+- DNS
+- DHCP
+- Group Policy
+- User Management
+
+---
+
+## 🛡️ SOC Lab
+
+- Splunk
+- Wazuh
+- Windows Logs
+- Linux Logs
+- Alert Monitoring
+- Threat Detection
+
+---
+
+## 🌐 Web Application Security Assessment
+
+- OWASP Top 10
+- Burp Suite
+- OWASP ZAP
+- Nessus
+- Vulnerability Assessment
+
+---
+
+## 🦠 Malware Analysis
+
+- Static Analysis
+- PEStudio
+- Exeinfo PE
+- API Investigation
+- Malware Classification
+
+---
+
+## 🌍 OSINT Investigation
+
+- Shodan
+- Maltego
+- Google Dorking
+- Recon-ng
+- Sherlock
+
+---
+
+## ⚙️ IIoT SCADA Monitoring
+
+- Node-RED
+- Modbus TCP
+- Python
+- Email Alerts
+- Industrial Security
+
+---
+
+# 📚 Currently Learning
+
+- Threat Hunting
+- Microsoft Sentinel
+- Microsoft Defender XDR
+- Sigma Rules
+- YARA Rules
+- DFIR
+- Reverse Engineering
+- Detection Engineering
+- Azure Security
+
+---
+
+# 📜 Certifications
+
+🏅 Cisco Certified Support Technician (Cybersecurity)
+
+🏅 Certified Ethical Hacker (CEH v12 Training)
+
+🏅 IBM Cybersecurity Fundamentals
+
+---
+
+# 🎯 Career Objective
+
+I am seeking opportunities as a
+
+- SOC Analyst
+- Security Analyst
+- Blue Team Analyst
+- Threat Detection Engineer
+- Malware Analyst
+- Incident Response Analyst
+- Cybersecurity Analyst
+
+where I can apply practical security skills, contribute to defending enterprise environments, and continue growing in cybersecurity.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KiranKarenavar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKarenavar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKarenavar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/kiran-karenavar
+
+💻 GitHub
+
+https://github.com/KiranKarenavar
+
+📧 Email
+
+kirankarenavar15@gmail.com
+
+---
+
+<div align="center">
+
+## ⭐ "Securing Systems. Detecting Threats. Never Stop Learning."
+
+</div>
