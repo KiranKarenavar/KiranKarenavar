@@ -101,17 +101,7 @@
 
 # 🎯 Career Objective
 
-I am seeking opportunities as a
-
-- SOC Analyst
-- Security Analyst
-- Blue Team Analyst
-- Threat Detection Engineer
-- Malware Analyst
-- Incident Response Analyst
-- Cybersecurity Analyst
-
-where I can apply practical security skills, contribute to defending enterprise environments, and continue growing in cybersecurity.
+Aspiring to build a career in **Cybersecurity** by contributing to **SOC**, **Blue Team**, and **Security Operations** while applying practical skills in security monitoring, Windows security, vulnerability assessment, malware analysis, and incident response to help protect enterprise environments.
 
 ---
 
