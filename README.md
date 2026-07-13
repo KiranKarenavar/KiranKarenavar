@@ -24,25 +24,6 @@
 
 ---
 
-# 👨‍💻 About Me
-
-🎓 Computer Engineering Student
-
-🛡️ Passionate about Cybersecurity & Defensive Security
-
-🔍 Interested in
-
-- SOC Operations
-- Threat Hunting
-- Incident Response
-- Active Directory Security
-- Windows Server Administration
-- Malware Analysis
-- Digital Forensics
-- Detection Engineering
-- Network Security
-- Web Application Security
-
 💡 I enjoy building home labs, solving real-world security challenges, and continuously learning modern detection and defense techniques.
 
 ---
