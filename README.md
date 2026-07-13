@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DNS-1A73E8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DHCP-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OSI%20Model-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WSUS-0078D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VPN-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
@@ -52,6 +54,13 @@
   <img src="https://img.shields.io/badge/Vulnerability%20Assessment-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Incident%20Response-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/User%20Access%20Control-1976D2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Privilege%20Management-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firewall-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Email%20Security-D14836?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MFA-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SCADA-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IIoT-0F9D58?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/OSINT-1F2937?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/EDR%20%2F%20XDR-0F766E?style=for-the-badge"/>
@@ -63,6 +72,16 @@
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Acunetix-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/tcpdump-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hydra-8E24AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Maltego-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Shodan-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/theHarvester-607D8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Recon--ng-455A64?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sherlock-512DA8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PeStudio-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Exeinfo%20PE-5C6BC0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-2E5EAA?style=for-the-badge"/>
