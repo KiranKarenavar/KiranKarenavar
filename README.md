@@ -1,6 +1,6 @@
 <div align="center">
 
-### Cybersecurity Enthusiast | Aspiring SOC Analyst | Blue Team (Defensive Security) | Threat Detection | SIEM Windows Security |  Malware Analysis | Network Security
+### Cybersecurity Enthusiast | Aspiring SOC Analyst | Blue Team (Defensive Security) | Threat Detection | SIEM | Windows Security |  Malware Analysis | Network Security
 
 <p> I'm a Computer Engineering student passionate about cybersecurity and dedicated to building practical skills through hands-on labs and real-world projects. My interests include security monitoring, vulnerability assessment, Windows Server, Active Directory, malware analysis, network security, and Blue Team operations. I enjoy continuously learning and applying defensive security techniques to strengthen and secure modern IT environments. </p>
 
@@ -119,14 +119,16 @@ where I can apply practical security skills, contribute to defending enterprise 
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/kiran-karenavar
-
+<a href="https://www.linkedin.com/in/kiran-karenavar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 💻 GitHub
-
-https://github.com/KiranKarenavar
-
+&nbsp; &nbsp;
+  <a href="https://github.com/KiranKarenavar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 📧 Email
-
+&nbsp; &nbsp;
 kirankarenavar15@gmail.com
 
 ---
