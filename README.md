@@ -9,7 +9,10 @@ I'm passionate about securing systems, detecting threats, analyzing malware, and
 Currently pursuing Computer Engineering while continuously developing practical skills in Blue Team operations, SIEM, Windows Infrastructure, and Incident Response.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Threat+Detection+Engineer;Blue+Team+Enthusiast;Active+Directory+Security;Malware+Analysis;Cybersecurity+Learner" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Kiran+Karenavar+%F0%9F%91%8B;Aspiring+SOC+Analyst;Blue+Team+%7C+Cybersecurity+Enthusiast;Security+Analyst+in+the+Making;Learning+%7C+Defending+%7C+Growing" alt="Typing SVG" />
+</p>
 
 </div>
 
