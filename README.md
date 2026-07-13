@@ -170,12 +170,15 @@ Aspiring to build a career in **Cybersecurity** by contributing to **SOC**, **Bl
 </picture>
 
 <div align="center">
-
-
+  
 ##  "Securing Systems. Detecting Threats. Never Stop Learning."
 ##### I enjoy building home labs, solving real-world security challenges, and continuously learning modern detection and defense techniques.
 
 </div>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KiranKarenavar&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=90&section=footer" alt="footer"/>
