@@ -347,5 +347,5 @@ kirankarenavar15@gmail.com
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=90&section=footer" alt="footer"/>
 </div>
