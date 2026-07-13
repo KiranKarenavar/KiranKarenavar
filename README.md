@@ -292,12 +292,6 @@ kirankarenavar15@gmail.com
 
 ---
 
-<div align="center">
-
-## ⭐ "Securing Systems. Detecting Threats. Never Stop Learning."
-
-</div>
-
 ## 📊 Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KiranKarenavar&theme=dark&hide_border=false)
@@ -309,3 +303,9 @@ kirankarenavar15@gmail.com
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiranKarenavar/KiranKarenavar/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/KiranKarenavar/KiranKarenavar/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+
+## ⭐ "Securing Systems. Detecting Threats. Never Stop Learning."
+
+</div>
