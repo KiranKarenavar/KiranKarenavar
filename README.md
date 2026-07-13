@@ -16,6 +16,14 @@ Currently pursuing Computer Engineering while continuously developing practical 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KiranKarenavar)
+  &nbsp;
+<a href="https://www.linkedin.com/in/kiran-karenavar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/KiranKarenavar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
 ---
 
@@ -341,6 +349,7 @@ kirankarenavar15@gmail.com
 </picture>
 
 <div align="center">
+
 
 ##  "Securing Systems. Detecting Threats. Never Stop Learning."
 
