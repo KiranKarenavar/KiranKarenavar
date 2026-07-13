@@ -306,6 +306,6 @@ kirankarenavar15@gmail.com
 
 <div align="center">
 
-## ⭐ "Securing Systems. Detecting Threats. Never Stop Learning."
+##  "Securing Systems. Detecting Threats. Never Stop Learning."
 
 </div>
