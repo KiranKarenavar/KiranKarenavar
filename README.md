@@ -17,11 +17,11 @@ Currently pursuing Computer Engineering while continuously developing practical 
   <a href="https://www.linkedin.com/in/kiran-karenavar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
+&nbsp; &nbsp;
   <a href="https://github.com/KiranKarenavar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  
+&nbsp; &nbsp;
   <img src="https://komarev.com/ghpvc/?username=KiranKarenavar&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
