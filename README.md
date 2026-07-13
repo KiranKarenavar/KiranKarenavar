@@ -15,6 +15,10 @@ Currently pursuing Computer Engineering while continuously developing practical 
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=KiranKarenavar)
+
+---
+
 # 👨‍💻 About Me
 
 🎓 Computer Engineering Student
