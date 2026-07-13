@@ -137,6 +137,7 @@ kirankarenavar15@gmail.com
 
 ## 📜 Certifications
 
+<p align="center">
 | Certification | Status | Progress |
 |---|---|---|
 | **Cisco CCST Cybersecurity** | ✅ Completed | ![](https://geps.dev/progress/100) |
@@ -145,12 +146,12 @@ kirankarenavar15@gmail.com
 | **CEH v13** | 📖 In Progress | ![](https://geps.dev/progress/90) |
 | **Microsoft SC-200** | 🎯 Next | - |
 | **Blue Team Level 1 (BTL1)** | 🔜 Planned | - |
-
+</p>
 ---
 
 # 📊 GitHub Summary
 
-<p>
+<p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiranKarenavar&theme=tokyonight"/>
 
@@ -170,7 +171,7 @@ kirankarenavar15@gmail.com
 
 # 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KiranKarenavar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKarenavar&theme=tokyonight" />
 </p>
@@ -192,7 +193,6 @@ kirankarenavar15@gmail.com
 
 ##  "Securing Systems. Detecting Threats. Never Stop Learning."
 ##### I enjoy building home labs, solving real-world security challenges, and continuously learning modern detection and defense techniques.
-
 
 </div>
 
