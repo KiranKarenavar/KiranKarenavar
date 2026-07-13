@@ -327,6 +327,7 @@ kirankarenavar15@gmail.com
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KiranKarenavar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKarenavar&theme=tokyonight" />
 </p>
+
 ---
 
 ## 📊 Stats
@@ -343,4 +344,8 @@ kirankarenavar15@gmail.com
 
 ##  "Securing Systems. Detecting Threats. Never Stop Learning."
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" alt="footer"/>
 </div>
