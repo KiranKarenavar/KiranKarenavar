@@ -333,6 +333,29 @@ kirankarenavar15@gmail.com
 
 ---
 
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=KiranKarenavar&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKarenavar&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKarenavar&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
 ## 📊 Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=KiranKarenavar&theme=dark&hide_border=false)
 ###
