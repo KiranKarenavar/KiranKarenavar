@@ -25,10 +25,6 @@
 
 ---
 
-
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Operating Systems
@@ -137,7 +133,6 @@ kirankarenavar15@gmail.com
 
 ## 📜 Certifications
 
-<p align="center">
 | Certification | Status | Progress |
 |---|---|---|
 | **Cisco CCST Cybersecurity** | ✅ Completed | ![](https://geps.dev/progress/100) |
@@ -146,7 +141,7 @@ kirankarenavar15@gmail.com
 | **CEH v13** | 📖 In Progress | ![](https://geps.dev/progress/90) |
 | **Microsoft SC-200** | 🎯 Next | - |
 | **Blue Team Level 1 (BTL1)** | 🔜 Planned | - |
-</p>
+
 ---
 
 # 📊 GitHub Summary
