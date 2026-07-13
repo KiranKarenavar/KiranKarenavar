@@ -1,6 +1,6 @@
 <div align="center">
 
-### Cybersecurity Enthusiast | Aspiring SOC Analyst | Blue Team (Defensive Security) | Threat Detection | SIEM | Windows Security |  Malware Analysis | Network Security
+### Cybersecurity Enthusiast | Aspiring SOC Analyst | Blue Team (Defensive Security) | Threat Detection | SIEM Windows Security |  Malware Analysis | Network Security
 
 <p> I'm a Computer Engineering student passionate about cybersecurity and dedicated to building practical skills through hands-on labs and real-world projects. My interests include security monitoring, vulnerability assessment, Windows Server, Active Directory, malware analysis, network security, and Blue Team operations. I enjoy continuously learning and applying defensive security techniques to strengthen and secure modern IT environments. </p>
 
