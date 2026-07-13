@@ -292,6 +292,18 @@ kirankarenavar15@gmail.com
 
 ---
 
+## 📜 Certifications
+
+| Certification | Status | Progress |
+|---|---|---|
+| **CompTIA Security+** | 📋 Preparing | ![](https://geps.dev/progress/0) |
+| **CEHv13** | 📖 In Progress | ![](https://geps.dev/progress/90) |
+| **ISC2 CC** (Certified in Cybersecurity (CC)) | 📖 Studying | ![](https://geps.dev/progress/60) |
+| **CCST** | ✅ Completed | ![](https://geps.dev/progress/100) |
+| **Microsoft SC-200** | 🎯 Next | - |
+
+---
+
 ## 🏴 Platforms
 
 <p>
