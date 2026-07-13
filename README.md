@@ -298,12 +298,13 @@ kirankarenavar15@gmail.com
 
 </div>
 
+## 📊 GitHub Stats
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=KiranKarenavar&show_icons=true&theme=tokyonight)
 
-## ⭐ "Securing Systems. Detecting Threats. Never Stop Learning."
+![](https://nirzak-streak-stats.vercel.app/?user=KiranKarenavar&theme=tokyonight)
 
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKarenavar&layout=compact&theme=tokyonight)
 
 
 <picture>
