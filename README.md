@@ -86,6 +86,19 @@
 
 ---
 
+## 📜 Certifications
+
+| Certification | Status | Progress |
+|---|---|---|
+| **Cisco CCST Cybersecurity** | ✅ Completed | ![](https://geps.dev/progress/100) |
+| **ISC2 Certified in Cybersecurity (CC)** | 📖 Studying | ![](https://geps.dev/progress/60) |
+| **CompTIA Security+** | 📋 Preparing | ![](https://geps.dev/progress/0) |
+| **CEH v13** | 📖 In Progress | ![](https://geps.dev/progress/90) |
+| **Microsoft SC-200** | 🎯 Next | - |
+| **Blue Team Level 1 (BTL1)** | 🔜 Planned | - |
+
+---
+
 # 🚀 Featured Projects
 
 ## 🔐 Active Directory Home Lab
@@ -117,16 +130,6 @@ Aspiring to build a career in **Cybersecurity** by contributing to **SOC**, **Bl
 
 ---
 
-## 📜 Certifications
-
-| Certification | Status | Progress |
-|---|---|---|
-| **Cisco CCST Cybersecurity** | ✅ Completed | ![](https://geps.dev/progress/100) |
-| **ISC2 Certified in Cybersecurity (CC)** | 📖 Studying | ![](https://geps.dev/progress/60) |
-| **CompTIA Security+** | 📋 Preparing | ![](https://geps.dev/progress/0) |
-| **CEH v13** | 📖 In Progress | ![](https://geps.dev/progress/90) |
-| **Microsoft SC-200** | 🎯 Next | - |
-| **Blue Team Level 1 (BTL1)** | 🔜 Planned | - |
 
 ---
 
