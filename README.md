@@ -28,115 +28,67 @@
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Tech Stack & Skills
 
-## Operating Systems
+### 💻 Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
 
-- Windows
-- Windows Server 2019/2022
-- Ubuntu
-- Kali Linux
+### 🌐 Networking & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DNS-1A73E8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DHCP-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VPN-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+</p>
 
----
+### 🛡️ Cybersecurity
+<p>
+  <img src="https://img.shields.io/badge/SIEM-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-DC143C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSINT-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDR%20%2F%20XDR-0F766E?style=for-the-badge"/>
+</p>
 
-## Blue Team
+### 🔧 Security Tools
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2E5EAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=zaproxy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snort-F15A24?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge"/>
+</p>
 
-- SIEM Monitoring
-- Threat Detection
-- Incident Response
-- Security Monitoring
-- Log Analysis
-- IOC Investigation
-- Email Security
-- MFA
-- Firewall Configuration
-- Endpoint Security (EDR/XDR)
+### ⚙️ Scripting & Automation
+<p>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
----
-
-## Windows Infrastructure
-
-- Active Directory
-- Group Policy
-- DNS
-- DHCP
-- WSUS
-- Office 365
-- User & Privilege Management
-
----
-
-## Networking
-
-- TCP/IP
-- OSI Model
-- DNS
-- DHCP
-- VPN
-- Routing
-- Switching
-
----
-
-## Web Security
-
-- OWASP Top 10
-- Burp Suite
-- OWASP ZAP
-- Web Vulnerability Assessment
-
----
-
-## Malware Analysis
-
-- Static Malware Analysis
-- PE Analysis
-- API Inspection
-- DLL Analysis
-- Entropy Analysis
-- Malware Persistence
-
----
-
-## OSINT
-
-- Shodan
-- Maltego
-- Recon-ng
-- Sherlock
-- theHarvester
-- Google Dorking
-
----
-
-## Security Tools
-
-- Splunk
-- Wazuh
-- Nmap
-- Nessus
-- Metasploit
-- Burp Suite
-- Wireshark
-- tcpdump
-- Snort
-- Acunetix
-- VirusTotal
-
----
-
-# 💻 Programming & Scripting
-
-```text
-Python        █████████░░
-PowerShell    ████████░░░
-Bash          ███████░░░░
-SQL           ██████░░░░░
-KQL           █████░░░░░░
-SPL           █████░░░░░░
-YARA          ████░░░░░░░
-Regex         ██████░░░░░
-```
+### ☁️ Virtualization & Platforms
+<p>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
