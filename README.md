@@ -306,6 +306,17 @@ kirankarenavar15@gmail.com
 | **CEH v13** | 📖 In Progress | ![](https://geps.dev/progress/90) |
 | **Microsoft SC-200** | 🎯 Next | - |
 | **Blue Team Level 1 (BTL1)** | 🔜 Planned | - |
+
+---
+
+# 📊 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiranKarenavar&theme=tokyonight"/>
+
+</p>
+
 ---
 
 ## 🏴 Platforms
