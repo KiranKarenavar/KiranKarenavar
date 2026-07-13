@@ -298,23 +298,14 @@ kirankarenavar15@gmail.com
 
 </div>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=KiranKarenavar&show_icons=true&theme=tokyonight)
-
-![](https://nirzak-streak-stats.vercel.app/?user=KiranKarenavar&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKarenavar&layout=compact&theme=tokyonight)
-
 ## 📊 Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KiranKarenavar&theme=dark&hide_border=false)
 
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/KiranKarenavar/KiranKarenavar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/KiranKarenavar/KiranKarenavar/output/github-snake.svg" />
-  <img alt="github-snake"
-       src="https://raw.githubusercontent.com/KiranKarenavar/KiranKarenavar/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiranKarenavar/KiranKarenavar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiranKarenavar/KiranKarenavar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KiranKarenavar/KiranKarenavar/output/github-snake.svg" />
 </picture>
