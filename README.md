@@ -103,81 +103,6 @@
 
 ---
 
-## 🛡️ SOC Lab
-
-- Splunk
-- Wazuh
-- Windows Logs
-- Linux Logs
-- Alert Monitoring
-- Threat Detection
-
----
-
-## 🌐 Web Application Security Assessment
-
-- OWASP Top 10
-- Burp Suite
-- OWASP ZAP
-- Nessus
-- Vulnerability Assessment
-
----
-
-## 🦠 Malware Analysis
-
-- Static Analysis
-- PEStudio
-- Exeinfo PE
-- API Investigation
-- Malware Classification
-
----
-
-## 🌍 OSINT Investigation
-
-- Shodan
-- Maltego
-- Google Dorking
-- Recon-ng
-- Sherlock
-
----
-
-## ⚙️ IIoT SCADA Monitoring
-
-- Node-RED
-- Modbus TCP
-- Python
-- Email Alerts
-- Industrial Security
-
----
-
-# 📚 Currently Learning
-
-- Threat Hunting
-- Microsoft Sentinel
-- Microsoft Defender XDR
-- Sigma Rules
-- YARA Rules
-- DFIR
-- Reverse Engineering
-- Detection Engineering
-- Azure Security
-
----
-
-# 📜 Certifications
-
-🏅 Cisco Certified Support Technician (Cybersecurity)
-
-🏅 Certified Ethical Hacker (CEH v12 Training)
-
-🏅 IBM Cybersecurity Fundamentals
-
----
-
 # 🎯 Career Objective
 
 I am seeking opportunities as a
@@ -191,20 +116,6 @@ I am seeking opportunities as a
 - Cybersecurity Analyst
 
 where I can apply practical security skills, contribute to defending enterprise environments, and continue growing in cybersecurity.
-
----
-
-
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKarenavar&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -239,7 +150,7 @@ kirankarenavar15@gmail.com
 
 # 📊 GitHub Summary
 
-<p align="center">
+<p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiranKarenavar&theme=tokyonight"/>
 
@@ -259,7 +170,7 @@ kirankarenavar15@gmail.com
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KiranKarenavar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKarenavar&theme=tokyonight" />
 </p>
