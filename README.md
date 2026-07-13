@@ -296,12 +296,12 @@ kirankarenavar15@gmail.com
 
 | Certification | Status | Progress |
 |---|---|---|
+| **Cisco CCST Cybersecurity** | ✅ Completed | ![](https://geps.dev/progress/100) |
+| **ISC2 Certified in Cybersecurity (CC)** | 📖 Studying | ![](https://geps.dev/progress/60) |
 | **CompTIA Security+** | 📋 Preparing | ![](https://geps.dev/progress/0) |
-| **CEHv13** | 📖 In Progress | ![](https://geps.dev/progress/90) |
-| **ISC2 CC** (Certified in Cybersecurity (CC)) | 📖 Studying | ![](https://geps.dev/progress/60) |
-| **CCST** | ✅ Completed | ![](https://geps.dev/progress/100) |
+| **CEH v13** | 📖 In Progress | ![](https://geps.dev/progress/90) |
 | **Microsoft SC-200** | 🎯 Next | - |
-
+| **Blue Team Level 1 (BTL1)** | 🔜 Planned | - |
 ---
 
 ## 🏴 Platforms
