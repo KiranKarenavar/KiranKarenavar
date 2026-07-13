@@ -99,6 +99,16 @@
 
 ---
 
+## 🏴 Platforms
+
+<p>
+  <a href="https://tryhackme.com/p/KiranKarenavar"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://app.hackthebox.com/users/2443085"><img src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://hackerone.com/kirankarenavar"><img src="https://img.shields.io/badge/HackerOne-%23494649.svg?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 ## 🔐 Active Directory Home Lab
@@ -143,13 +153,7 @@ Aspiring to build a career in **Cybersecurity** by contributing to **SOC**, **Bl
 
 ---
 
-## 🏴 Platforms
 
-<p>
-  <a href="https://tryhackme.com/p/KiranKarenavar"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://app.hackthebox.com/users/2443085"><img src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
-  <a href="https://hackerone.com/kirankarenavar"><img src="https://img.shields.io/badge/HackerOne-%23494649.svg?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
-</p>
 
 ---
 
