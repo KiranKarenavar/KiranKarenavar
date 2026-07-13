@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Kiran Karenavar
-
 ### Cybersecurity Enthusiast | SOC Analyst | Blue Team | Threat Detection | Active Directory | Malware Analysis
 
 <p>
@@ -14,8 +12,6 @@ Currently pursuing Computer Engineering while continuously developing practical 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Kiran+Karenavar+%F0%9F%91%8B;Aspiring+SOC+Analyst;Blue+Team+%7C+Cybersecurity+Enthusiast;Security+Analyst+in+the+Making;Learning+%7C+Defending+%7C+Growing" alt="Typing SVG" />
 </p>
 
-</div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kiran-karenavar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -27,6 +23,8 @@ Currently pursuing Computer Engineering while continuously developing practical 
 &nbsp; &nbsp;
   <img src="https://komarev.com/ghpvc/?username=KiranKarenavar&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
+
+</div>
 
 ---
 
