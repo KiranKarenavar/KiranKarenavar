@@ -88,10 +88,10 @@
 ## 🎯 Featured Projects
 
 ### 🌐 Network Services Security Testing (SSH, SMTP, FTP, and MySQL)
-🔍 Conducted penetration testing on SSH, SMTP, FTP, and MySQL services using Metasploit, Hydra, Nmap, and Telnet to identify authentication weaknesses, service misconfigurations, and security vulnerabilities.
-🛡️ Implemented security hardening measures, including SSH key-based authentication, disabling anonymous FTP access, securing SMTP configurations, and strengthening MySQL authentication.
-📊 Performed SOC-focused log analysis to detect brute-force attacks, unauthorized access attempts, and documented Indicators of Compromise (IOCs).
-🚨 Created Log Analysis and Incident Response reports, strengthening practical knowledge in network security, vulnerability assessment, penetration testing, and blue-team security operations.
+- 🔍 Conducted penetration testing on SSH, SMTP, FTP, and MySQL services using Metasploit, Hydra, Nmap, and Telnet to identify authentication weaknesses, service misconfigurations, and security vulnerabilities.
+- 🛡️ Implemented security hardening measures, including SSH key-based authentication, disabling anonymous FTP access, securing SMTP configurations, and strengthening MySQL authentication.
+- 📊 Performed SOC-focused log analysis to detect brute-force attacks, unauthorized access attempts, and documented Indicators of Compromise (IOCs).
+- 🚨 Created Log Analysis and Incident Response reports, strengthening practical knowledge in network security, vulnerability assessment, penetration testing, and blue-team security operations.
 
 ### 🏢 Windows Server 2022 Active Directory
 - 🖥️ **Windows Server 2022 Active Directory Lab** – Enterprise Active Directory environment with AD DS, DNS, DHCP, Organizational Units, Group Policy, and domain-joined Windows clients.
