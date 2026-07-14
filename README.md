@@ -101,15 +101,21 @@
 - 📊 Performed SOC-focused log analysis to detect brute-force attacks, unauthorized access attempts, and documented Indicators of Compromise (IOCs).
 - 🚨 Created Log Analysis and Incident Response reports, strengthening practical knowledge in network security, vulnerability assessment, penetration testing, and blue-team security operations.
 
+---
+
 ### 🏢 Windows Server 2022 Active Directory
 - 🖥️ **Windows Server 2022 Active Directory Lab** – Enterprise Active Directory environment with AD DS, DNS, DHCP, Organizational Units, Group Policy, and domain-joined Windows clients.
 - 👥 **Identity & Access Management Lab** – Practical implementation of user management, authentication, authorization, and Group Policy administration.
 - 🌐 **Enterprise Network Services** – Configuration and management of DNS, DHCP, Active Directory, and Windows domain infrastructure.
 
+---
+
 ### 🏭 Secure IIoT SCADA Motor Temperature Monitoring & Alert System
 - ⚙️ **Secure IIoT SCADA Temperature Monitoring System** – Real-time industrial motor monitoring using Modbus, Node-RED, Python, and automated email alerts with secure alert logic.
 - 📈 **Industrial Automation Dashboard** – Live Node-RED dashboard for SCADA simulation, monitoring, and operational visibility.
 - 🔐 **Cybersecurity-Aware SCADA Monitoring** – Industrial monitoring solution demonstrating secure IIoT communication and operational safety.
+
+---
 
 ### ☁️ Snort SOC Monitoring Lab
 - 🚀 Deployed Snort IDS on Ubuntu to monitor and analyze real-time network traffic
