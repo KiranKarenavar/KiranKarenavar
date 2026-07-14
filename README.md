@@ -31,54 +31,44 @@
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-</p>
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
 ### 🌐 Infrastructure & Networking
-<p>
-  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DNS-1A73E8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DHCP-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VPN-0A66C2?style=for-the-badge"/>
-</p>
+![Active Directory](https://img.shields.io/badge/-Active_Directory-003366?style=flat-square&logo=windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-00599C?style=flat-square)
+![DNS](https://img.shields.io/badge/-DNS-1A73E8?style=flat-square)
+![DHCP](https://img.shields.io/badge/-DHCP-4285F4?style=flat-square)
+![VPN](https://img.shields.io/badge/-VPN-0A66C2?style=flat-square)
 
 ### 🛡️ Cybersecurity
-<p>
-  <img src="https://img.shields.io/badge/SIEM-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Threat%20Detection-DC143C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Incident%20Response-006400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OSINT-1F2937?style=for-the-badge"/>
-</p>
+![SIEM](https://img.shields.io/badge/-SIEM-4B0082?style=flat-square)
+![Threat Detection](https://img.shields.io/badge/-Threat_Detection-DC143C?style=flat-square)
+![Incident Response](https://img.shields.io/badge/-Incident_Response-006400?style=flat-square)
+![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-8E44AD?style=flat-square)
+![Vulnerability Assessment](https://img.shields.io/badge/-Vulnerability_Assessment-FF6F00?style=flat-square)
+![OWASP Top 10](https://img.shields.io/badge/-OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![OSINT](https://img.shields.io/badge/-OSINT-1F2937?style=flat-square)
 
 ### 🔧 Security Tools
-<p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2E5EAA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=zaproxy&logoColor=white"/>
-</p>
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-005571?style=flat-square)
+![Nessus](https://img.shields.io/badge/-Nessus-00C176?style=flat-square)
+![Nmap](https://img.shields.io/badge/-Nmap-214478?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2E5EAA?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-00549E?style=flat-square&logo=zaproxy&logoColor=white)
 
 ### ⚙️ Scripting & Virtualization
-<p>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-</p>
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
 ---
 
@@ -95,22 +85,29 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🎯 Featured Projects
 
-## 🔐 Active Directory Home Lab
+### 🌐 Network Services Security Testing (SSH, SMTP, FTP, and MySQL)
+🔍 Conducted penetration testing on SSH, SMTP, FTP, and MySQL services using Metasploit, Hydra, Nmap, and Telnet to identify authentication weaknesses, service misconfigurations, and security vulnerabilities.
+🛡️ Implemented security hardening measures, including SSH key-based authentication, disabling anonymous FTP access, securing SMTP configurations, and strengthening MySQL authentication.
+📊 Performed SOC-focused log analysis to detect brute-force attacks, unauthorized access attempts, and documented Indicators of Compromise (IOCs).
+🚨 Created Log Analysis and Incident Response reports, strengthening practical knowledge in network security, vulnerability assessment, penetration testing, and blue-team security operations.
 
-- Windows Server 2022
-- Domain Controller
-- DNS
-- DHCP
-- Group Policy
-- User Management
+### 🏢 Windows Server 2022 Active Directory
+- 🖥️ **Windows Server 2022 Active Directory Lab** – Enterprise Active Directory environment with AD DS, DNS, DHCP, Organizational Units, Group Policy, and domain-joined Windows clients.
+- 👥 **Identity & Access Management Lab** – Practical implementation of user management, authentication, authorization, and Group Policy administration.
+- 🌐 **Enterprise Network Services** – Configuration and management of DNS, DHCP, Active Directory, and Windows domain infrastructure.
 
----
+### 🏭 Secure IIoT SCADA Motor Temperature Monitoring & Alert System
+- ⚙️ **Secure IIoT SCADA Temperature Monitoring System** – Real-time industrial motor monitoring using Modbus, Node-RED, Python, and automated email alerts with secure alert logic.
+- 📈 **Industrial Automation Dashboard** – Live Node-RED dashboard for SCADA simulation, monitoring, and operational visibility.
+- 🔐 **Cybersecurity-Aware SCADA Monitoring** – Industrial monitoring solution demonstrating secure IIoT communication and operational safety.
 
-# 🎯 Career Objective
-
-Aspiring to build a career in **Cybersecurity** by contributing to **SOC**, **Blue Team**, and **Security Operations** while applying practical skills in security monitoring, Windows security, vulnerability assessment, malware analysis, and incident response to help protect enterprise environments.
+### ☁️ Snort SOC Monitoring Lab
+- 🚀 Deployed Snort IDS on Ubuntu to monitor and analyze real-time network traffic
+- 🔍 Developed custom detection rules for ICMP, HTTP GET/POST, SSH, FTP, DNS, and Nmap scans
+- ⚔️ Simulated attacks using Kali Linux to validate intrusion detection and security monitoring
+- 📊 Analyzed alerts and network logs to identify suspicious activities and strengthen Blue Team skills
 
 ---
 
