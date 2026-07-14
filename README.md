@@ -34,39 +34,47 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
-### 🌐 Infrastructure & Networking
-![Active Directory](https://img.shields.io/badge/-Active_Directory-003366?style=flat-square&logo=windows&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+### 🌐 Networking & Infrastructure
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-00599C?style=flat-square)
 ![DNS](https://img.shields.io/badge/-DNS-1A73E8?style=flat-square)
 ![DHCP](https://img.shields.io/badge/-DHCP-4285F4?style=flat-square)
 ![VPN](https://img.shields.io/badge/-VPN-0A66C2?style=flat-square)
+![Firewall](https://img.shields.io/badge/-Firewall-FF9800?style=flat-square)
+![WSUS](https://img.shields.io/badge/-WSUS-0078D4?style=flat-square)
 
 ### 🛡️ Cybersecurity
 ![SIEM](https://img.shields.io/badge/-SIEM-4B0082?style=flat-square)
+![Active Directory](https://img.shields.io/badge/-Active_Directory-003366?style=flat-square&logo=windows&logoColor=white)
 ![Threat Detection](https://img.shields.io/badge/-Threat_Detection-DC143C?style=flat-square)
-![Incident Response](https://img.shields.io/badge/-Incident_Response-006400?style=flat-square)
-![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-8E44AD?style=flat-square)
 ![Vulnerability Assessment](https://img.shields.io/badge/-Vulnerability_Assessment-FF6F00?style=flat-square)
+![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-8E44AD?style=flat-square)
+![Incident Response](https://img.shields.io/badge/-Incident_Response-006400?style=flat-square)
 ![OWASP Top 10](https://img.shields.io/badge/-OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 ![OSINT](https://img.shields.io/badge/-OSINT-1F2937?style=flat-square)
+![EDR/XDR](https://img.shields.io/badge/-EDR/XDR-0F766E?style=flat-square)
 
 ### 🔧 Security Tools
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-005571?style=flat-square)
 ![Nessus](https://img.shields.io/badge/-Nessus-00C176?style=flat-square)
 ![Nmap](https://img.shields.io/badge/-Nmap-214478?style=flat-square)
+![Acunetix](https://img.shields.io/badge/-Acunetix-FF6B00?style=flat-square)
+![Shodan](https://img.shields.io/badge/-Shodan-E91E63?style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2E5EAA?style=flat-square)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-00549E?style=flat-square&logo=zaproxy&logoColor=white)
+![Snort](https://img.shields.io/badge/-Snort-F15A24?style=flat-square)
+![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat-square)
 
-### ⚙️ Scripting & Virtualization
+### ⚙️ Scripting & Automation
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### ☁️ Virtualization & Platforms
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
