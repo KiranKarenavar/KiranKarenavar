@@ -97,33 +97,33 @@
 
 🛡️ Static Malware Analysis & Detection Engineering
 
-🔍 Analyzed WannaCry, Emotet, AlienSpy, Ardamax, LoadMoney, and Android Banking Spyware using PeStudio, PEiD, and Exeinfo PE.
-🧬 Performed PE analysis, entropy analysis, compiler detection, and IoC extraction to identify malware characteristics and obfuscation techniques.
-🛡️ Developed YARA rules, Sigma rules, Splunk SPL, Microsoft Sentinel KQL, and Elastic KQL for malware detection and threat hunting.
-📊 Mapped malware behaviors to the MITRE ATT&CK Framework, documented Windows Event IDs, and created SOC-focused detection recommendations.
-🐍 Built Python automation tools for SHA-256 hashing, entropy calculation, and YARA scanning, demonstrating malware analysis and Blue Team detection engineering skills.
+- 🔍 Analyzed WannaCry, Emotet, AlienSpy, Ardamax, LoadMoney, and Android Banking Spyware using PeStudio, PEiD, and Exeinfo PE.
+- 🧬 Performed PE analysis, entropy analysis, compiler detection, and IoC extraction to identify malware characteristics and obfuscation       techniques.
+- 🛡️ Developed YARA rules, Sigma rules, Splunk SPL, Microsoft Sentinel KQL, and Elastic KQL for malware detection and threat hunting.
+- 📊 Mapped malware behaviors to the MITRE ATT&CK Framework, documented Windows Event IDs, and created SOC-focused detection                   recommendations.
+- 🐍 Built Python automation tools for SHA-256 hashing, entropy calculation, and YARA scanning, demonstrating malware analysis and Blue        Team detection engineering skills.
 
 ---
 
 ### 🌐 Network Services Security Testing (SSH, SMTP, FTP, and MySQL)
-- 🔍 Conducted penetration testing on SSH, SMTP, FTP, and MySQL services using Metasploit, Hydra, Nmap, and Telnet to identify authentication weaknesses, service misconfigurations, and security vulnerabilities.
-- 🛡️ Implemented security hardening measures, including SSH key-based authentication, disabling anonymous FTP access, securing SMTP configurations, and strengthening MySQL authentication.
-- 📊 Performed SOC-focused log analysis to detect brute-force attacks, unauthorized access attempts, and documented Indicators of Compromise (IOCs).
-- 🚨 Created Log Analysis and Incident Response reports, strengthening practical knowledge in network security, vulnerability assessment, penetration testing, and blue-team security operations.
+- 🔍 Conducted penetration testing on SSH, SMTP, FTP, and MySQL services using Metasploit, Hydra, Nmap, and Telnet to identify                 authentication weaknesses, service misconfigurations, and security vulnerabilities.
+- 🛡️ Implemented security hardening measures, including SSH key-based authentication, disabling anonymous FTP access, securing SMTP             configurations, and strengthening MySQL authentication.
+- 📊 Performed SOC-focused log analysis to detect brute-force attacks, unauthorized access attempts, and documented Indicators of              Compromise (IOCs).
+- 🚨 Created Log Analysis and Incident Response reports, strengthening practical knowledge in network security, vulnerability                  assessment, penetration testing, and blue-team security operations.
 
 ---
 
 ### 🏢 Windows Server 2022 Active Directory
-- 🖥️ **Windows Server 2022 Active Directory Lab** – Enterprise Active Directory environment with AD DS, DNS, DHCP, Organizational Units, Group Policy, and domain-joined Windows clients.
-- 👥 **Identity & Access Management Lab** – Practical implementation of user management, authentication, authorization, and Group Policy administration.
+- 🖥️ **Windows Server 2022 Active Directory Lab** – Enterprise Active Directory environment with AD DS, DNS, DHCP, Organizational Units,         Group Policy, and domain-joined Windows clients.
+- 👥 **Identity & Access Management Lab** – Practical implementation of user management, authentication, authorization, and Group Policy         administration.
 - 🌐 **Enterprise Network Services** – Configuration and management of DNS, DHCP, Active Directory, and Windows domain infrastructure.
 
 ---
 
 ### 🏭 Secure IIoT SCADA Motor Temperature Monitoring & Alert System
-- ⚙️ **Secure IIoT SCADA Temperature Monitoring System** – Real-time industrial motor monitoring using Modbus, Node-RED, Python, and automated email alerts with secure alert logic.
+- ⚙️ **Secure IIoT SCADA Temperature Monitoring System** – Real-time industrial motor monitoring using Modbus, Node-RED, Python, and             automated email alerts with secure alert logic.
 - 📈 **Industrial Automation Dashboard** – Live Node-RED dashboard for SCADA simulation, monitoring, and operational visibility.
-- 🔐 **Cybersecurity-Aware SCADA Monitoring** – Industrial monitoring solution demonstrating secure IIoT communication and operational safety.
+- 🔐 **Cybersecurity-Aware SCADA Monitoring** – Industrial monitoring solution demonstrating secure IIoT communication and operational           safety.
 
 ---
 
