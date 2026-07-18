@@ -95,7 +95,7 @@
 
 ## 🎯 Featured Projects
 
-🛡️ Static Malware Analysis & Detection Engineering
+### 🛡️ Static Malware Analysis & Detection Engineering
 
 - 🔍 Analyzed WannaCry, Emotet, AlienSpy, Ardamax, LoadMoney, and Android Banking Spyware using PeStudio, PEiD, and Exeinfo PE.
 - 🧬 Performed PE analysis, entropy analysis, compiler detection, and IoC extraction to identify malware characteristics and obfuscation       techniques.
