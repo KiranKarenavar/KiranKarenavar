@@ -95,6 +95,16 @@
 
 ## 🎯 Featured Projects
 
+🛡️ Static Malware Analysis & Detection Engineering
+
+🔍 Analyzed WannaCry, Emotet, AlienSpy, Ardamax, LoadMoney, and Android Banking Spyware using PeStudio, PEiD, and Exeinfo PE.
+🧬 Performed PE analysis, entropy analysis, compiler detection, and IoC extraction to identify malware characteristics and obfuscation techniques.
+🛡️ Developed YARA rules, Sigma rules, Splunk SPL, Microsoft Sentinel KQL, and Elastic KQL for malware detection and threat hunting.
+📊 Mapped malware behaviors to the MITRE ATT&CK Framework, documented Windows Event IDs, and created SOC-focused detection recommendations.
+🐍 Built Python automation tools for SHA-256 hashing, entropy calculation, and YARA scanning, demonstrating malware analysis and Blue Team detection engineering skills.
+
+---
+
 ### 🌐 Network Services Security Testing (SSH, SMTP, FTP, and MySQL)
 - 🔍 Conducted penetration testing on SSH, SMTP, FTP, and MySQL services using Metasploit, Hydra, Nmap, and Telnet to identify authentication weaknesses, service misconfigurations, and security vulnerabilities.
 - 🛡️ Implemented security hardening measures, including SSH key-based authentication, disabling anonymous FTP access, securing SMTP configurations, and strengthening MySQL authentication.
