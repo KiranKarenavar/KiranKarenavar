@@ -192,5 +192,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4F46E5,50:6366F1,100:818CF8&section=footer&text=SYSTEM%20SHUTDOWN...&fontColor=BFB8B8&fontSize=30&fontAlignY=75&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4F46E5,50:6366F1,100:818CF8&section=footer&text=SYSTEM%20SHUTDOWN..!!&fontColor=BFB8B8&fontSize=30&fontAlignY=75&animation=fadeIn" width="100%"/>
 </div>
