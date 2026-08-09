@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Kiran+Karenavar+%F0%9F%91%8B;Aspiring+SOC+Analyst;Blue+Team+%7C+Cybersecurity+Enthusiast;Security+Analyst+in+the+Making;Learning+%7C+Defending+%7C+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Kiran+Karenavar+%F0%9F%91%8B;Aspiring+SOC+Analyst;Defensive+%7C+Cybersecurity+Enthusiast;Security+Analyst+in+the+Making;Learning+%7C+Defending+%7C+Growing" alt="Typing SVG" />
 </p>
 
 <p align="center">
